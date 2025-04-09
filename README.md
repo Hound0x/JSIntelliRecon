@@ -62,6 +62,8 @@ JSIntelliRecon is designed for ethical research and testing. Only scan websites 
 ```
 
 License
-MIT – see LICENSE for details.
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.  
+See the [LICENSE](LICENSE) file for full details.
 
 Made by Hound0x
