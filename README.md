@@ -32,6 +32,8 @@ Enable deep crawl mode:
 python jsintellirecon.py --url https://example.com --output results.json --deep
 ```
 
+---
+
 ## Output Format
 A structured .json file containing:
 
@@ -48,6 +50,8 @@ A structured .json file containing:
 ]
 ```
 
+---
+
 ## Installation
 Install the required Python libraries:
 
@@ -55,13 +59,16 @@ Install the required Python libraries:
 pip install -r requirements.txt
 ```
 
+---
+
 ## Disclaimer
 
 ```
 JSIntelliRecon is designed for ethical research and testing. Only scan websites you have permission to test.
 ```
+---
 
-License
+## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) license.  
 See the [LICENSE](LICENSE) file for full details.
