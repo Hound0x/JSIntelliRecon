@@ -13,7 +13,6 @@
   - JS Library Versions (e.g., jQuery, React, Angular)
   - Internal Paths (e.g., `/admin/config.php`)
   - IP Addresses
-- Tags findings with sensitive keywords (`auth`, `admin`, etc.)
 - Supports optional deep crawling for subpages
 - Outputs results to a structured JSON file
 - Clean, color-coded terminal output
